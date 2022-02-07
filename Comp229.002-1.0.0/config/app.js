@@ -1,9 +1,13 @@
+/*
+App configuration
+*/
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+//adding the routes
 var indexRouter = require('../routes/index');
 var aboutRouter = require('../routes/about');
 var projectsRouter = require('../routes/projects');

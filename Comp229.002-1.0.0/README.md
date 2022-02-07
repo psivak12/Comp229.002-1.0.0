@@ -1,2 +1,2 @@
-# Comp229.002
- COMP229.002 - Code Example
+# Comp229
+ COMP229 - Express Portfolio site
